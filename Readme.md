@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/DXPivotGrid_HideColumnsAndRows/MainPage.xaml) (VB: [MainPage.xaml](./VB/DXPivotGrid_HideColumnsAndRows/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/DXPivotGrid_HideColumnsAndRows/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/DXPivotGrid_HideColumnsAndRows/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/DXPivotGrid_HideColumnsAndRows/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/DXPivotGrid_HideColumnsAndRows/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to hide particular rows and columns
 
